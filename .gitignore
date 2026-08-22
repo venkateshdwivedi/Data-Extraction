@@ -1,0 +1,31 @@
+# Environment variables (API keys - NEVER commit this)
+.env
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Output files (generated data, not source code)
+data/output/
+data/raw_pdfs/
+
+# Error logs (generated at runtime)
+data/errors.txt
+
+# Diagnostic/scratch scripts
+diagnose.py
+diagnose_output.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
