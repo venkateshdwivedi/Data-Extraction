@@ -162,9 +162,3 @@ You can safely press **`Ctrl+C`** at any time — the script will save all succe
 | `openpyxl` | Excel file writing engine |
 | `tenacity` | Exponential backoff retry for API rate limits |
 | `python-dotenv` | Secure API key loading from `.env` |
-
----
-
-## License
-
-MIT
