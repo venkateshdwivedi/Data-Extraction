@@ -1,4 +1,4 @@
-# 📄 PDF to Excel Extraction Pipeline
+# PDF to Excel Extraction Pipeline
 
 An intelligent, production-grade batch pipeline that extracts structured data from invoice PDFs and exports it to a clean Excel spreadsheet — powered by **Groq AI** and **Llama/GPT inference**.
 
